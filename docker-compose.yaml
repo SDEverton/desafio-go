@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  go:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: everton/fullcycle
+    container_name: go
+    
