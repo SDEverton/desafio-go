@@ -16,10 +16,10 @@ docker build -t <seu-user>/fullcycle .
 
 # Pull 
 ```
-docker pull everton/fullcycle
+docker pull evertonoliveira/fullcycle
 ```
 
 # Executar o container
 ```
-docker run --rm everton/fullcycle
+docker run --rm evertonoliveira/fullcycle
 ```
